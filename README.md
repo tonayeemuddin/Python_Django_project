@@ -29,6 +29,6 @@
 
 6. Start the Django Server
 
-     python manage.py runserver
+       python manage.py runserver
 
 The server should now be running locally on the other PC. Access it through a web browser by navigating to http://127.0.0.1:8000/
